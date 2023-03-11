@@ -3,3 +3,4 @@ playsound==1.2.2
 python-dotenv==0.21.0
 pyttsx3==2.90
 SpeechRecognition==3.9.0
+
