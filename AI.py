@@ -12,8 +12,6 @@ load_dotenv()
 openai.api_key = os.getenv("OPENAIAPI")
 internet = False
 
-
-
 def ask_question(question):
     response = openai.Completion.create(
         engine="text-davinci-002",
