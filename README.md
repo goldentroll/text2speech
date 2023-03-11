@@ -10,7 +10,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install openai 
 pip install openai
 ```
 
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
